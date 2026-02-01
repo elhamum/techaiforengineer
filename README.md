@@ -1,6 +1,6 @@
 # Tech AI for Engineers — Energy Consumption Prediction (Workshop)
 
-This is a **community engagement workshop** for engineering students on how to use **AI (GitHub Copilot)** with **GitHub Codespaces** to build a simple machine-learning project for a final-year project.
+
 
 You do **not** need to memorize code.  
 You need to know **what you want to do** — Copilot helps write the code.
