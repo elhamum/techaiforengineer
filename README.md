@@ -47,13 +47,8 @@ A browser-based VS Code editor will open.
 ## Step 3 — Install required libraries
 Open **Terminal** in Codespaces and run:
 
-```bash
-pip install -r requirements.txt
----
 
-## Step 4 — Install notebook and work in notebook
-
-```bash
 pip install -r requirements.txt
+
 
 
